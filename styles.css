@@ -65,3 +65,8 @@ button {
   button {
     margin: 10px;
   }
+  form {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+  }
